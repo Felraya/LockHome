@@ -1,0 +1,142 @@
+main .guide {
+    margin: 20px auto;
+}
+
+main .container_intrusion {
+    border-radius: 5px;
+    display: block;
+    background: #fff;
+    margin-top: 20px;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
+    padding: 20px;
+}
+
+main .title_intrusion {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+main .detail_intrusion {
+    text-align: center;
+}
+
+/********** TIMELINE **********/
+
+.timeline {
+    height: fit-content;
+    width: 90%;
+    color: black;
+    margin: 100px auto;
+}
+
+.container ul {
+    list-style: none;
+    transform: translate(0%, 0%);
+    padding: 1px 0 1px 50px;
+}
+
+.container ul:before {
+    content: '';
+    width: 1px;
+    height: 100%;
+    position: absolute;
+    border-left: 2px dashed #000;
+}
+
+.container ul li {
+    position: relative;
+    margin-left: 30px;
+}
+
+.container ul li:not(:first-child) {
+    margin-top: 60px;
+}
+
+.container ul li>span {
+    width: 2px;
+    height: 100%;
+    background: #000;
+    left: -30px;
+    top: 0;
+    position: absolute;
+}
+
+.container ul li>span:before,
+.container ul li>span:after {
+    content: '';
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    position: absolute;
+    background: #000;
+    left: -5px;
+    top: 0;
+}
+
+.container ul li span:after {
+    top: 100%;
+}
+
+.container ul li>div {
+    margin-left: 10px;
+}
+
+.container .cont .itm {
+    background: white;
+    padding: 14px;
+    border-radius: 6px;
+    margin-bottom: 15px;
+}
+
+.container .cont .itm.red {
+    background: #c62828;
+    color: white;
+}
+
+.container .cont .itm.yellow {
+    background: #F9A825;
+    color: white;
+}
+
+.container .cont .itm:last-child {
+    margin-bottom: 0;
+}
+
+.container .cont .itm .type {
+    font-weight: 600;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.container .cont .itm .type {
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.container .cont .itm .date {
+    font-weight: 600;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.container span.number {
+    height: 100%;
+}
+
+.container span.number span {
+    position: absolute;
+    font-size: 15px;
+    margin-top: -3px;
+    left: -50px;
+    font-weight: bold;
+}
+
+.container span.number span:first-child {
+    top: 0;
+}
+
+.container span.number span:last-child {
+    top: 100%;
+}

@@ -1,0 +1,1246 @@
+INFO - 2019-11-27 16:41:29 --> Config Class Initialized
+INFO - 2019-11-27 16:41:29 --> Hooks Class Initialized
+DEBUG - 2019-11-27 16:41:29 --> UTF-8 Support Enabled
+INFO - 2019-11-27 16:41:29 --> Utf8 Class Initialized
+INFO - 2019-11-27 16:41:29 --> URI Class Initialized
+DEBUG - 2019-11-27 16:41:29 --> No URI present. Default controller set.
+INFO - 2019-11-27 16:41:29 --> Router Class Initialized
+INFO - 2019-11-27 16:41:29 --> Output Class Initialized
+INFO - 2019-11-27 16:41:29 --> Security Class Initialized
+DEBUG - 2019-11-27 16:41:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 16:41:29 --> Input Class Initialized
+INFO - 2019-11-27 16:41:29 --> Language Class Initialized
+ERROR - 2019-11-27 16:41:29 --> 404 Page Not Found: Accueil/index
+ERROR - 2019-11-27 16:41:29 --> Severity: Warning --> include(/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php): failed to open stream: No such file or directory /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+ERROR - 2019-11-27 16:41:29 --> Severity: Warning --> include(): Failed opening '/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php' for inclusion (include_path='.:/usr/share/php') /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+INFO - 2019-11-27 16:41:29 --> Config Class Initialized
+INFO - 2019-11-27 16:41:29 --> Hooks Class Initialized
+DEBUG - 2019-11-27 16:41:29 --> UTF-8 Support Enabled
+INFO - 2019-11-27 16:41:29 --> Utf8 Class Initialized
+INFO - 2019-11-27 16:41:29 --> URI Class Initialized
+DEBUG - 2019-11-27 16:41:29 --> No URI present. Default controller set.
+INFO - 2019-11-27 16:41:29 --> Router Class Initialized
+INFO - 2019-11-27 16:41:29 --> Output Class Initialized
+INFO - 2019-11-27 16:41:29 --> Security Class Initialized
+DEBUG - 2019-11-27 16:41:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 16:41:29 --> Input Class Initialized
+INFO - 2019-11-27 16:41:29 --> Language Class Initialized
+ERROR - 2019-11-27 16:41:29 --> 404 Page Not Found: Accueil/index
+ERROR - 2019-11-27 16:41:29 --> Severity: Warning --> include(/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php): failed to open stream: No such file or directory /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+ERROR - 2019-11-27 16:41:29 --> Severity: Warning --> include(): Failed opening '/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php' for inclusion (include_path='.:/usr/share/php') /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+INFO - 2019-11-27 16:41:29 --> Config Class Initialized
+INFO - 2019-11-27 16:41:29 --> Hooks Class Initialized
+DEBUG - 2019-11-27 16:41:29 --> UTF-8 Support Enabled
+INFO - 2019-11-27 16:41:29 --> Utf8 Class Initialized
+INFO - 2019-11-27 16:41:29 --> URI Class Initialized
+DEBUG - 2019-11-27 16:41:29 --> No URI present. Default controller set.
+INFO - 2019-11-27 16:41:29 --> Router Class Initialized
+INFO - 2019-11-27 16:41:29 --> Output Class Initialized
+INFO - 2019-11-27 16:41:29 --> Security Class Initialized
+DEBUG - 2019-11-27 16:41:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 16:41:29 --> Input Class Initialized
+INFO - 2019-11-27 16:41:29 --> Language Class Initialized
+ERROR - 2019-11-27 16:41:29 --> 404 Page Not Found: Accueil/index
+ERROR - 2019-11-27 16:41:29 --> Severity: Warning --> include(/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php): failed to open stream: No such file or directory /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+ERROR - 2019-11-27 16:41:29 --> Severity: Warning --> include(): Failed opening '/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php' for inclusion (include_path='.:/usr/share/php') /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+INFO - 2019-11-27 16:41:29 --> Config Class Initialized
+INFO - 2019-11-27 16:41:29 --> Hooks Class Initialized
+DEBUG - 2019-11-27 16:41:29 --> UTF-8 Support Enabled
+INFO - 2019-11-27 16:41:29 --> Utf8 Class Initialized
+INFO - 2019-11-27 16:41:29 --> URI Class Initialized
+DEBUG - 2019-11-27 16:41:29 --> No URI present. Default controller set.
+INFO - 2019-11-27 16:41:29 --> Router Class Initialized
+INFO - 2019-11-27 16:41:29 --> Output Class Initialized
+INFO - 2019-11-27 16:41:29 --> Security Class Initialized
+DEBUG - 2019-11-27 16:41:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 16:41:29 --> Input Class Initialized
+INFO - 2019-11-27 16:41:29 --> Language Class Initialized
+ERROR - 2019-11-27 16:41:29 --> 404 Page Not Found: Accueil/index
+ERROR - 2019-11-27 16:41:29 --> Severity: Warning --> include(/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php): failed to open stream: No such file or directory /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+ERROR - 2019-11-27 16:41:29 --> Severity: Warning --> include(): Failed opening '/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php' for inclusion (include_path='.:/usr/share/php') /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+INFO - 2019-11-27 16:41:30 --> Config Class Initialized
+INFO - 2019-11-27 16:41:30 --> Hooks Class Initialized
+DEBUG - 2019-11-27 16:41:30 --> UTF-8 Support Enabled
+INFO - 2019-11-27 16:41:30 --> Utf8 Class Initialized
+INFO - 2019-11-27 16:41:30 --> URI Class Initialized
+DEBUG - 2019-11-27 16:41:30 --> No URI present. Default controller set.
+INFO - 2019-11-27 16:41:30 --> Router Class Initialized
+INFO - 2019-11-27 16:41:30 --> Output Class Initialized
+INFO - 2019-11-27 16:41:30 --> Security Class Initialized
+DEBUG - 2019-11-27 16:41:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 16:41:30 --> Input Class Initialized
+INFO - 2019-11-27 16:41:30 --> Language Class Initialized
+ERROR - 2019-11-27 16:41:30 --> 404 Page Not Found: Accueil/index
+ERROR - 2019-11-27 16:41:30 --> Severity: Warning --> include(/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php): failed to open stream: No such file or directory /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+ERROR - 2019-11-27 16:41:30 --> Severity: Warning --> include(): Failed opening '/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php' for inclusion (include_path='.:/usr/share/php') /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+INFO - 2019-11-27 16:41:30 --> Config Class Initialized
+INFO - 2019-11-27 16:41:30 --> Hooks Class Initialized
+DEBUG - 2019-11-27 16:41:30 --> UTF-8 Support Enabled
+INFO - 2019-11-27 16:41:30 --> Utf8 Class Initialized
+INFO - 2019-11-27 16:41:30 --> URI Class Initialized
+DEBUG - 2019-11-27 16:41:30 --> No URI present. Default controller set.
+INFO - 2019-11-27 16:41:30 --> Router Class Initialized
+INFO - 2019-11-27 16:41:30 --> Output Class Initialized
+INFO - 2019-11-27 16:41:30 --> Security Class Initialized
+DEBUG - 2019-11-27 16:41:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 16:41:30 --> Input Class Initialized
+INFO - 2019-11-27 16:41:30 --> Language Class Initialized
+ERROR - 2019-11-27 16:41:30 --> 404 Page Not Found: Accueil/index
+ERROR - 2019-11-27 16:41:30 --> Severity: Warning --> include(/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php): failed to open stream: No such file or directory /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+ERROR - 2019-11-27 16:41:30 --> Severity: Warning --> include(): Failed opening '/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php' for inclusion (include_path='.:/usr/share/php') /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+INFO - 2019-11-27 16:41:30 --> Config Class Initialized
+INFO - 2019-11-27 16:41:30 --> Hooks Class Initialized
+DEBUG - 2019-11-27 16:41:30 --> UTF-8 Support Enabled
+INFO - 2019-11-27 16:41:30 --> Utf8 Class Initialized
+INFO - 2019-11-27 16:41:30 --> URI Class Initialized
+DEBUG - 2019-11-27 16:41:30 --> No URI present. Default controller set.
+INFO - 2019-11-27 16:41:30 --> Router Class Initialized
+INFO - 2019-11-27 16:41:30 --> Output Class Initialized
+INFO - 2019-11-27 16:41:30 --> Security Class Initialized
+DEBUG - 2019-11-27 16:41:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 16:41:30 --> Input Class Initialized
+INFO - 2019-11-27 16:41:30 --> Language Class Initialized
+ERROR - 2019-11-27 16:41:30 --> 404 Page Not Found: Accueil/index
+ERROR - 2019-11-27 16:41:30 --> Severity: Warning --> include(/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php): failed to open stream: No such file or directory /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+ERROR - 2019-11-27 16:41:30 --> Severity: Warning --> include(): Failed opening '/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php' for inclusion (include_path='.:/usr/share/php') /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+INFO - 2019-11-27 16:41:30 --> Config Class Initialized
+INFO - 2019-11-27 16:41:30 --> Hooks Class Initialized
+DEBUG - 2019-11-27 16:41:30 --> UTF-8 Support Enabled
+INFO - 2019-11-27 16:41:30 --> Utf8 Class Initialized
+INFO - 2019-11-27 16:41:30 --> URI Class Initialized
+DEBUG - 2019-11-27 16:41:30 --> No URI present. Default controller set.
+INFO - 2019-11-27 16:41:30 --> Router Class Initialized
+INFO - 2019-11-27 16:41:30 --> Output Class Initialized
+INFO - 2019-11-27 16:41:30 --> Security Class Initialized
+DEBUG - 2019-11-27 16:41:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 16:41:30 --> Input Class Initialized
+INFO - 2019-11-27 16:41:30 --> Language Class Initialized
+ERROR - 2019-11-27 16:41:30 --> 404 Page Not Found: Accueil/index
+ERROR - 2019-11-27 16:41:30 --> Severity: Warning --> include(/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php): failed to open stream: No such file or directory /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+ERROR - 2019-11-27 16:41:30 --> Severity: Warning --> include(): Failed opening '/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php' for inclusion (include_path='.:/usr/share/php') /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+INFO - 2019-11-27 16:44:01 --> Config Class Initialized
+INFO - 2019-11-27 16:44:01 --> Hooks Class Initialized
+DEBUG - 2019-11-27 16:44:01 --> UTF-8 Support Enabled
+INFO - 2019-11-27 16:44:01 --> Utf8 Class Initialized
+INFO - 2019-11-27 16:44:01 --> URI Class Initialized
+DEBUG - 2019-11-27 16:44:01 --> No URI present. Default controller set.
+INFO - 2019-11-27 16:44:01 --> Router Class Initialized
+INFO - 2019-11-27 16:44:01 --> Output Class Initialized
+INFO - 2019-11-27 16:44:01 --> Security Class Initialized
+DEBUG - 2019-11-27 16:44:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 16:44:01 --> Input Class Initialized
+INFO - 2019-11-27 16:44:01 --> Language Class Initialized
+ERROR - 2019-11-27 16:44:01 --> 404 Page Not Found: Accueil/index
+ERROR - 2019-11-27 16:44:01 --> Severity: Warning --> include(/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php): failed to open stream: No such file or directory /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+ERROR - 2019-11-27 16:44:01 --> Severity: Warning --> include(): Failed opening '/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php' for inclusion (include_path='.:/usr/share/php') /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+INFO - 2019-11-27 16:44:02 --> Config Class Initialized
+INFO - 2019-11-27 16:44:02 --> Hooks Class Initialized
+DEBUG - 2019-11-27 16:44:02 --> UTF-8 Support Enabled
+INFO - 2019-11-27 16:44:02 --> Utf8 Class Initialized
+INFO - 2019-11-27 16:44:02 --> URI Class Initialized
+DEBUG - 2019-11-27 16:44:02 --> No URI present. Default controller set.
+INFO - 2019-11-27 16:44:02 --> Router Class Initialized
+INFO - 2019-11-27 16:44:02 --> Output Class Initialized
+INFO - 2019-11-27 16:44:02 --> Security Class Initialized
+DEBUG - 2019-11-27 16:44:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 16:44:02 --> Input Class Initialized
+INFO - 2019-11-27 16:44:02 --> Language Class Initialized
+ERROR - 2019-11-27 16:44:02 --> 404 Page Not Found: Accueil/index
+ERROR - 2019-11-27 16:44:02 --> Severity: Warning --> include(/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php): failed to open stream: No such file or directory /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+ERROR - 2019-11-27 16:44:02 --> Severity: Warning --> include(): Failed opening '/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php' for inclusion (include_path='.:/usr/share/php') /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+INFO - 2019-11-27 16:44:02 --> Config Class Initialized
+INFO - 2019-11-27 16:44:02 --> Hooks Class Initialized
+DEBUG - 2019-11-27 16:44:02 --> UTF-8 Support Enabled
+INFO - 2019-11-27 16:44:02 --> Utf8 Class Initialized
+INFO - 2019-11-27 16:44:02 --> URI Class Initialized
+DEBUG - 2019-11-27 16:44:02 --> No URI present. Default controller set.
+INFO - 2019-11-27 16:44:02 --> Router Class Initialized
+INFO - 2019-11-27 16:44:02 --> Output Class Initialized
+INFO - 2019-11-27 16:44:02 --> Security Class Initialized
+DEBUG - 2019-11-27 16:44:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 16:44:02 --> Input Class Initialized
+INFO - 2019-11-27 16:44:02 --> Language Class Initialized
+ERROR - 2019-11-27 16:44:02 --> 404 Page Not Found: Accueil/index
+ERROR - 2019-11-27 16:44:02 --> Severity: Warning --> include(/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php): failed to open stream: No such file or directory /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+ERROR - 2019-11-27 16:44:02 --> Severity: Warning --> include(): Failed opening '/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php' for inclusion (include_path='.:/usr/share/php') /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+INFO - 2019-11-27 16:44:02 --> Config Class Initialized
+INFO - 2019-11-27 16:44:02 --> Hooks Class Initialized
+DEBUG - 2019-11-27 16:44:02 --> UTF-8 Support Enabled
+INFO - 2019-11-27 16:44:02 --> Utf8 Class Initialized
+INFO - 2019-11-27 16:44:02 --> URI Class Initialized
+DEBUG - 2019-11-27 16:44:02 --> No URI present. Default controller set.
+INFO - 2019-11-27 16:44:02 --> Router Class Initialized
+INFO - 2019-11-27 16:44:02 --> Output Class Initialized
+INFO - 2019-11-27 16:44:02 --> Security Class Initialized
+DEBUG - 2019-11-27 16:44:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 16:44:02 --> Input Class Initialized
+INFO - 2019-11-27 16:44:02 --> Language Class Initialized
+ERROR - 2019-11-27 16:44:02 --> 404 Page Not Found: Accueil/index
+ERROR - 2019-11-27 16:44:02 --> Severity: Warning --> include(/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php): failed to open stream: No such file or directory /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+ERROR - 2019-11-27 16:44:02 --> Severity: Warning --> include(): Failed opening '/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php' for inclusion (include_path='.:/usr/share/php') /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+INFO - 2019-11-27 16:44:02 --> Config Class Initialized
+INFO - 2019-11-27 16:44:02 --> Hooks Class Initialized
+DEBUG - 2019-11-27 16:44:02 --> UTF-8 Support Enabled
+INFO - 2019-11-27 16:44:02 --> Utf8 Class Initialized
+INFO - 2019-11-27 16:44:02 --> URI Class Initialized
+DEBUG - 2019-11-27 16:44:02 --> No URI present. Default controller set.
+INFO - 2019-11-27 16:44:02 --> Router Class Initialized
+INFO - 2019-11-27 16:44:02 --> Output Class Initialized
+INFO - 2019-11-27 16:44:02 --> Security Class Initialized
+DEBUG - 2019-11-27 16:44:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 16:44:02 --> Input Class Initialized
+INFO - 2019-11-27 16:44:02 --> Language Class Initialized
+ERROR - 2019-11-27 16:44:02 --> 404 Page Not Found: Accueil/index
+ERROR - 2019-11-27 16:44:02 --> Severity: Warning --> include(/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php): failed to open stream: No such file or directory /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+ERROR - 2019-11-27 16:44:02 --> Severity: Warning --> include(): Failed opening '/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php' for inclusion (include_path='.:/usr/share/php') /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+INFO - 2019-11-27 16:44:03 --> Config Class Initialized
+INFO - 2019-11-27 16:44:03 --> Hooks Class Initialized
+DEBUG - 2019-11-27 16:44:03 --> UTF-8 Support Enabled
+INFO - 2019-11-27 16:44:03 --> Utf8 Class Initialized
+INFO - 2019-11-27 16:44:03 --> URI Class Initialized
+DEBUG - 2019-11-27 16:44:03 --> No URI present. Default controller set.
+INFO - 2019-11-27 16:44:03 --> Router Class Initialized
+INFO - 2019-11-27 16:44:03 --> Output Class Initialized
+INFO - 2019-11-27 16:44:03 --> Security Class Initialized
+DEBUG - 2019-11-27 16:44:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 16:44:03 --> Input Class Initialized
+INFO - 2019-11-27 16:44:03 --> Language Class Initialized
+ERROR - 2019-11-27 16:44:03 --> 404 Page Not Found: Accueil/index
+ERROR - 2019-11-27 16:44:03 --> Severity: Warning --> include(/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php): failed to open stream: No such file or directory /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+ERROR - 2019-11-27 16:44:03 --> Severity: Warning --> include(): Failed opening '/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php' for inclusion (include_path='.:/usr/share/php') /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+INFO - 2019-11-27 16:44:03 --> Config Class Initialized
+INFO - 2019-11-27 16:44:03 --> Hooks Class Initialized
+DEBUG - 2019-11-27 16:44:03 --> UTF-8 Support Enabled
+INFO - 2019-11-27 16:44:03 --> Utf8 Class Initialized
+INFO - 2019-11-27 16:44:03 --> URI Class Initialized
+DEBUG - 2019-11-27 16:44:03 --> No URI present. Default controller set.
+INFO - 2019-11-27 16:44:03 --> Router Class Initialized
+INFO - 2019-11-27 16:44:03 --> Output Class Initialized
+INFO - 2019-11-27 16:44:03 --> Security Class Initialized
+DEBUG - 2019-11-27 16:44:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 16:44:03 --> Input Class Initialized
+INFO - 2019-11-27 16:44:03 --> Language Class Initialized
+ERROR - 2019-11-27 16:44:03 --> 404 Page Not Found: Accueil/index
+ERROR - 2019-11-27 16:44:03 --> Severity: Warning --> include(/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php): failed to open stream: No such file or directory /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+ERROR - 2019-11-27 16:44:03 --> Severity: Warning --> include(): Failed opening '/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php' for inclusion (include_path='.:/usr/share/php') /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+INFO - 2019-11-27 16:44:03 --> Config Class Initialized
+INFO - 2019-11-27 16:44:03 --> Hooks Class Initialized
+DEBUG - 2019-11-27 16:44:03 --> UTF-8 Support Enabled
+INFO - 2019-11-27 16:44:03 --> Utf8 Class Initialized
+INFO - 2019-11-27 16:44:03 --> URI Class Initialized
+DEBUG - 2019-11-27 16:44:03 --> No URI present. Default controller set.
+INFO - 2019-11-27 16:44:03 --> Router Class Initialized
+INFO - 2019-11-27 16:44:03 --> Output Class Initialized
+INFO - 2019-11-27 16:44:03 --> Security Class Initialized
+DEBUG - 2019-11-27 16:44:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 16:44:03 --> Input Class Initialized
+INFO - 2019-11-27 16:44:03 --> Language Class Initialized
+ERROR - 2019-11-27 16:44:03 --> 404 Page Not Found: Accueil/index
+ERROR - 2019-11-27 16:44:03 --> Severity: Warning --> include(/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php): failed to open stream: No such file or directory /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+ERROR - 2019-11-27 16:44:03 --> Severity: Warning --> include(): Failed opening '/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php' for inclusion (include_path='.:/usr/share/php') /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+INFO - 2019-11-27 16:44:03 --> Config Class Initialized
+INFO - 2019-11-27 16:44:03 --> Hooks Class Initialized
+DEBUG - 2019-11-27 16:44:03 --> UTF-8 Support Enabled
+INFO - 2019-11-27 16:44:03 --> Utf8 Class Initialized
+INFO - 2019-11-27 16:44:03 --> URI Class Initialized
+DEBUG - 2019-11-27 16:44:03 --> No URI present. Default controller set.
+INFO - 2019-11-27 16:44:03 --> Router Class Initialized
+INFO - 2019-11-27 16:44:03 --> Output Class Initialized
+INFO - 2019-11-27 16:44:03 --> Security Class Initialized
+DEBUG - 2019-11-27 16:44:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 16:44:03 --> Input Class Initialized
+INFO - 2019-11-27 16:44:03 --> Language Class Initialized
+ERROR - 2019-11-27 16:44:03 --> 404 Page Not Found: Accueil/index
+ERROR - 2019-11-27 16:44:03 --> Severity: Warning --> include(/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php): failed to open stream: No such file or directory /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+ERROR - 2019-11-27 16:44:03 --> Severity: Warning --> include(): Failed opening '/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php' for inclusion (include_path='.:/usr/share/php') /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+INFO - 2019-11-27 16:44:04 --> Config Class Initialized
+INFO - 2019-11-27 16:44:04 --> Hooks Class Initialized
+DEBUG - 2019-11-27 16:44:04 --> UTF-8 Support Enabled
+INFO - 2019-11-27 16:44:04 --> Utf8 Class Initialized
+INFO - 2019-11-27 16:44:04 --> URI Class Initialized
+DEBUG - 2019-11-27 16:44:04 --> No URI present. Default controller set.
+INFO - 2019-11-27 16:44:04 --> Router Class Initialized
+INFO - 2019-11-27 16:44:04 --> Output Class Initialized
+INFO - 2019-11-27 16:44:04 --> Security Class Initialized
+DEBUG - 2019-11-27 16:44:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 16:44:04 --> Input Class Initialized
+INFO - 2019-11-27 16:44:04 --> Language Class Initialized
+ERROR - 2019-11-27 16:44:04 --> 404 Page Not Found: Accueil/index
+ERROR - 2019-11-27 16:44:04 --> Severity: Warning --> include(/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php): failed to open stream: No such file or directory /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+ERROR - 2019-11-27 16:44:04 --> Severity: Warning --> include(): Failed opening '/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php' for inclusion (include_path='.:/usr/share/php') /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+INFO - 2019-11-27 16:44:04 --> Config Class Initialized
+INFO - 2019-11-27 16:44:04 --> Hooks Class Initialized
+DEBUG - 2019-11-27 16:44:04 --> UTF-8 Support Enabled
+INFO - 2019-11-27 16:44:04 --> Utf8 Class Initialized
+INFO - 2019-11-27 16:44:04 --> URI Class Initialized
+DEBUG - 2019-11-27 16:44:04 --> No URI present. Default controller set.
+INFO - 2019-11-27 16:44:04 --> Router Class Initialized
+INFO - 2019-11-27 16:44:04 --> Output Class Initialized
+INFO - 2019-11-27 16:44:04 --> Security Class Initialized
+DEBUG - 2019-11-27 16:44:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 16:44:04 --> Input Class Initialized
+INFO - 2019-11-27 16:44:04 --> Language Class Initialized
+ERROR - 2019-11-27 16:44:04 --> 404 Page Not Found: Accueil/index
+ERROR - 2019-11-27 16:44:04 --> Severity: Warning --> include(/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php): failed to open stream: No such file or directory /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+ERROR - 2019-11-27 16:44:04 --> Severity: Warning --> include(): Failed opening '/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php' for inclusion (include_path='.:/usr/share/php') /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+INFO - 2019-11-27 16:44:04 --> Config Class Initialized
+INFO - 2019-11-27 16:44:04 --> Hooks Class Initialized
+DEBUG - 2019-11-27 16:44:04 --> UTF-8 Support Enabled
+INFO - 2019-11-27 16:44:04 --> Utf8 Class Initialized
+INFO - 2019-11-27 16:44:04 --> URI Class Initialized
+DEBUG - 2019-11-27 16:44:04 --> No URI present. Default controller set.
+INFO - 2019-11-27 16:44:04 --> Router Class Initialized
+INFO - 2019-11-27 16:44:04 --> Output Class Initialized
+INFO - 2019-11-27 16:44:04 --> Security Class Initialized
+DEBUG - 2019-11-27 16:44:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 16:44:04 --> Input Class Initialized
+INFO - 2019-11-27 16:44:04 --> Language Class Initialized
+ERROR - 2019-11-27 16:44:04 --> 404 Page Not Found: Accueil/index
+ERROR - 2019-11-27 16:44:04 --> Severity: Warning --> include(/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php): failed to open stream: No such file or directory /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+ERROR - 2019-11-27 16:44:04 --> Severity: Warning --> include(): Failed opening '/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php' for inclusion (include_path='.:/usr/share/php') /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+INFO - 2019-11-27 16:44:13 --> Config Class Initialized
+INFO - 2019-11-27 16:44:13 --> Hooks Class Initialized
+DEBUG - 2019-11-27 16:44:13 --> UTF-8 Support Enabled
+INFO - 2019-11-27 16:44:13 --> Utf8 Class Initialized
+INFO - 2019-11-27 16:44:13 --> URI Class Initialized
+DEBUG - 2019-11-27 16:44:13 --> No URI present. Default controller set.
+INFO - 2019-11-27 16:44:13 --> Router Class Initialized
+INFO - 2019-11-27 16:44:13 --> Output Class Initialized
+INFO - 2019-11-27 16:44:13 --> Security Class Initialized
+DEBUG - 2019-11-27 16:44:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 16:44:13 --> Input Class Initialized
+INFO - 2019-11-27 16:44:13 --> Language Class Initialized
+ERROR - 2019-11-27 16:44:13 --> 404 Page Not Found: Accueil/index
+ERROR - 2019-11-27 16:44:13 --> Severity: Warning --> include(/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php): failed to open stream: No such file or directory /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+ERROR - 2019-11-27 16:44:13 --> Severity: Warning --> include(): Failed opening '/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php' for inclusion (include_path='.:/usr/share/php') /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+INFO - 2019-11-27 16:48:21 --> Config Class Initialized
+INFO - 2019-11-27 16:48:21 --> Hooks Class Initialized
+DEBUG - 2019-11-27 16:48:21 --> UTF-8 Support Enabled
+INFO - 2019-11-27 16:48:21 --> Utf8 Class Initialized
+INFO - 2019-11-27 16:48:21 --> URI Class Initialized
+DEBUG - 2019-11-27 16:48:21 --> No URI present. Default controller set.
+INFO - 2019-11-27 16:48:21 --> Router Class Initialized
+INFO - 2019-11-27 16:48:21 --> Output Class Initialized
+INFO - 2019-11-27 16:48:21 --> Security Class Initialized
+DEBUG - 2019-11-27 16:48:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 16:48:21 --> Input Class Initialized
+INFO - 2019-11-27 16:48:21 --> Language Class Initialized
+ERROR - 2019-11-27 16:48:21 --> 404 Page Not Found: Accueil/index
+ERROR - 2019-11-27 16:48:21 --> Severity: Warning --> include(/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php): failed to open stream: No such file or directory /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+ERROR - 2019-11-27 16:48:21 --> Severity: Warning --> include(): Failed opening '/home/E183835W/public_html/lockhome/application/views/errors/html/error_404.php' for inclusion (include_path='.:/usr/share/php') /home/E183835W/public_html/lockhome/system/core/Exceptions.php 182
+INFO - 2019-11-27 16:49:21 --> Config Class Initialized
+INFO - 2019-11-27 16:49:21 --> Hooks Class Initialized
+DEBUG - 2019-11-27 16:49:21 --> UTF-8 Support Enabled
+INFO - 2019-11-27 16:49:21 --> Utf8 Class Initialized
+INFO - 2019-11-27 16:49:21 --> URI Class Initialized
+DEBUG - 2019-11-27 16:49:21 --> No URI present. Default controller set.
+INFO - 2019-11-27 16:49:21 --> Router Class Initialized
+INFO - 2019-11-27 16:49:21 --> Output Class Initialized
+INFO - 2019-11-27 16:49:21 --> Security Class Initialized
+DEBUG - 2019-11-27 16:49:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 16:49:21 --> Input Class Initialized
+INFO - 2019-11-27 16:49:21 --> Language Class Initialized
+ERROR - 2019-11-27 16:49:21 --> 404 Page Not Found: Accueil/index
+INFO - 2019-11-27 17:03:13 --> Config Class Initialized
+INFO - 2019-11-27 17:03:13 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:03:13 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:03:13 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:03:13 --> URI Class Initialized
+DEBUG - 2019-11-27 17:03:13 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:03:13 --> Router Class Initialized
+INFO - 2019-11-27 17:03:13 --> Output Class Initialized
+INFO - 2019-11-27 17:03:13 --> Security Class Initialized
+DEBUG - 2019-11-27 17:03:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:03:13 --> Input Class Initialized
+INFO - 2019-11-27 17:03:13 --> Language Class Initialized
+INFO - 2019-11-27 17:03:13 --> Loader Class Initialized
+INFO - 2019-11-27 17:03:13 --> Controller Class Initialized
+ERROR - 2019-11-27 17:03:13 --> Severity: error --> Exception: Class Accueil already exists and doesn't extend CI_Model /home/E183835W/public_html/lockhome/system/core/Loader.php 353
+INFO - 2019-11-27 17:03:23 --> Config Class Initialized
+INFO - 2019-11-27 17:03:23 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:03:23 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:03:23 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:03:23 --> URI Class Initialized
+DEBUG - 2019-11-27 17:03:23 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:03:23 --> Router Class Initialized
+INFO - 2019-11-27 17:03:23 --> Output Class Initialized
+INFO - 2019-11-27 17:03:23 --> Security Class Initialized
+DEBUG - 2019-11-27 17:03:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:03:23 --> Input Class Initialized
+INFO - 2019-11-27 17:03:23 --> Language Class Initialized
+INFO - 2019-11-27 17:03:23 --> Loader Class Initialized
+INFO - 2019-11-27 17:03:23 --> Controller Class Initialized
+ERROR - 2019-11-27 17:03:23 --> Severity: error --> Exception: Class Accueil already exists and doesn't extend CI_Model /home/E183835W/public_html/lockhome/system/core/Loader.php 353
+INFO - 2019-11-27 17:03:23 --> Config Class Initialized
+INFO - 2019-11-27 17:03:23 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:03:23 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:03:23 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:03:23 --> URI Class Initialized
+DEBUG - 2019-11-27 17:03:23 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:03:23 --> Router Class Initialized
+INFO - 2019-11-27 17:03:23 --> Output Class Initialized
+INFO - 2019-11-27 17:03:23 --> Security Class Initialized
+DEBUG - 2019-11-27 17:03:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:03:23 --> Input Class Initialized
+INFO - 2019-11-27 17:03:23 --> Language Class Initialized
+INFO - 2019-11-27 17:03:23 --> Loader Class Initialized
+INFO - 2019-11-27 17:03:23 --> Controller Class Initialized
+ERROR - 2019-11-27 17:03:23 --> Severity: error --> Exception: Class Accueil already exists and doesn't extend CI_Model /home/E183835W/public_html/lockhome/system/core/Loader.php 353
+INFO - 2019-11-27 17:03:23 --> Config Class Initialized
+INFO - 2019-11-27 17:03:23 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:03:23 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:03:23 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:03:23 --> URI Class Initialized
+DEBUG - 2019-11-27 17:03:23 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:03:23 --> Router Class Initialized
+INFO - 2019-11-27 17:03:23 --> Output Class Initialized
+INFO - 2019-11-27 17:03:23 --> Security Class Initialized
+DEBUG - 2019-11-27 17:03:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:03:23 --> Input Class Initialized
+INFO - 2019-11-27 17:03:23 --> Language Class Initialized
+INFO - 2019-11-27 17:03:23 --> Loader Class Initialized
+INFO - 2019-11-27 17:03:23 --> Controller Class Initialized
+ERROR - 2019-11-27 17:03:23 --> Severity: error --> Exception: Class Accueil already exists and doesn't extend CI_Model /home/E183835W/public_html/lockhome/system/core/Loader.php 353
+INFO - 2019-11-27 17:03:24 --> Config Class Initialized
+INFO - 2019-11-27 17:03:24 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:03:24 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:03:24 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:03:24 --> URI Class Initialized
+DEBUG - 2019-11-27 17:03:24 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:03:24 --> Router Class Initialized
+INFO - 2019-11-27 17:03:24 --> Output Class Initialized
+INFO - 2019-11-27 17:03:24 --> Security Class Initialized
+DEBUG - 2019-11-27 17:03:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:03:24 --> Input Class Initialized
+INFO - 2019-11-27 17:03:24 --> Language Class Initialized
+INFO - 2019-11-27 17:03:24 --> Loader Class Initialized
+INFO - 2019-11-27 17:03:24 --> Controller Class Initialized
+ERROR - 2019-11-27 17:03:24 --> Severity: error --> Exception: Class Accueil already exists and doesn't extend CI_Model /home/E183835W/public_html/lockhome/system/core/Loader.php 353
+INFO - 2019-11-27 17:03:24 --> Config Class Initialized
+INFO - 2019-11-27 17:03:24 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:03:24 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:03:24 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:03:24 --> URI Class Initialized
+DEBUG - 2019-11-27 17:03:24 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:03:24 --> Router Class Initialized
+INFO - 2019-11-27 17:03:24 --> Output Class Initialized
+INFO - 2019-11-27 17:03:24 --> Security Class Initialized
+DEBUG - 2019-11-27 17:03:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:03:24 --> Input Class Initialized
+INFO - 2019-11-27 17:03:24 --> Language Class Initialized
+INFO - 2019-11-27 17:03:24 --> Loader Class Initialized
+INFO - 2019-11-27 17:03:24 --> Controller Class Initialized
+ERROR - 2019-11-27 17:03:24 --> Severity: error --> Exception: Class Accueil already exists and doesn't extend CI_Model /home/E183835W/public_html/lockhome/system/core/Loader.php 353
+INFO - 2019-11-27 17:03:44 --> Config Class Initialized
+INFO - 2019-11-27 17:03:44 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:03:44 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:03:44 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:03:44 --> URI Class Initialized
+DEBUG - 2019-11-27 17:03:44 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:03:44 --> Router Class Initialized
+INFO - 2019-11-27 17:03:44 --> Output Class Initialized
+INFO - 2019-11-27 17:03:44 --> Security Class Initialized
+DEBUG - 2019-11-27 17:03:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:03:44 --> Input Class Initialized
+INFO - 2019-11-27 17:03:44 --> Language Class Initialized
+INFO - 2019-11-27 17:03:44 --> Loader Class Initialized
+INFO - 2019-11-27 17:03:44 --> Controller Class Initialized
+ERROR - 2019-11-27 17:03:44 --> Severity: error --> Exception: Class Accueil already exists and doesn't extend CI_Model /home/E183835W/public_html/lockhome/system/core/Loader.php 353
+INFO - 2019-11-27 17:03:44 --> Config Class Initialized
+INFO - 2019-11-27 17:03:44 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:03:44 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:03:44 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:03:44 --> URI Class Initialized
+DEBUG - 2019-11-27 17:03:44 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:03:44 --> Router Class Initialized
+INFO - 2019-11-27 17:03:44 --> Output Class Initialized
+INFO - 2019-11-27 17:03:44 --> Security Class Initialized
+DEBUG - 2019-11-27 17:03:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:03:44 --> Input Class Initialized
+INFO - 2019-11-27 17:03:44 --> Language Class Initialized
+INFO - 2019-11-27 17:03:44 --> Loader Class Initialized
+INFO - 2019-11-27 17:03:44 --> Controller Class Initialized
+ERROR - 2019-11-27 17:03:44 --> Severity: error --> Exception: Class Accueil already exists and doesn't extend CI_Model /home/E183835W/public_html/lockhome/system/core/Loader.php 353
+INFO - 2019-11-27 17:03:44 --> Config Class Initialized
+INFO - 2019-11-27 17:03:44 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:03:44 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:03:44 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:03:44 --> URI Class Initialized
+DEBUG - 2019-11-27 17:03:44 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:03:44 --> Router Class Initialized
+INFO - 2019-11-27 17:03:44 --> Output Class Initialized
+INFO - 2019-11-27 17:03:44 --> Security Class Initialized
+DEBUG - 2019-11-27 17:03:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:03:44 --> Input Class Initialized
+INFO - 2019-11-27 17:03:44 --> Language Class Initialized
+INFO - 2019-11-27 17:03:44 --> Loader Class Initialized
+INFO - 2019-11-27 17:03:44 --> Controller Class Initialized
+ERROR - 2019-11-27 17:03:44 --> Severity: error --> Exception: Class Accueil already exists and doesn't extend CI_Model /home/E183835W/public_html/lockhome/system/core/Loader.php 353
+INFO - 2019-11-27 17:03:44 --> Config Class Initialized
+INFO - 2019-11-27 17:03:44 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:03:44 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:03:44 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:03:44 --> URI Class Initialized
+DEBUG - 2019-11-27 17:03:44 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:03:44 --> Router Class Initialized
+INFO - 2019-11-27 17:03:44 --> Output Class Initialized
+INFO - 2019-11-27 17:03:44 --> Security Class Initialized
+DEBUG - 2019-11-27 17:03:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:03:44 --> Input Class Initialized
+INFO - 2019-11-27 17:03:44 --> Language Class Initialized
+INFO - 2019-11-27 17:03:44 --> Loader Class Initialized
+INFO - 2019-11-27 17:03:44 --> Controller Class Initialized
+ERROR - 2019-11-27 17:03:44 --> Severity: error --> Exception: Class Accueil already exists and doesn't extend CI_Model /home/E183835W/public_html/lockhome/system/core/Loader.php 353
+INFO - 2019-11-27 17:03:45 --> Config Class Initialized
+INFO - 2019-11-27 17:03:45 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:03:45 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:03:45 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:03:45 --> URI Class Initialized
+DEBUG - 2019-11-27 17:03:45 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:03:45 --> Router Class Initialized
+INFO - 2019-11-27 17:03:45 --> Output Class Initialized
+INFO - 2019-11-27 17:03:45 --> Security Class Initialized
+DEBUG - 2019-11-27 17:03:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:03:45 --> Input Class Initialized
+INFO - 2019-11-27 17:03:45 --> Language Class Initialized
+INFO - 2019-11-27 17:03:45 --> Loader Class Initialized
+INFO - 2019-11-27 17:03:45 --> Controller Class Initialized
+ERROR - 2019-11-27 17:03:45 --> Severity: error --> Exception: Class Accueil already exists and doesn't extend CI_Model /home/E183835W/public_html/lockhome/system/core/Loader.php 353
+INFO - 2019-11-27 17:04:06 --> Config Class Initialized
+INFO - 2019-11-27 17:04:06 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:04:06 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:04:06 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:04:06 --> URI Class Initialized
+DEBUG - 2019-11-27 17:04:06 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:04:06 --> Router Class Initialized
+INFO - 2019-11-27 17:04:06 --> Output Class Initialized
+INFO - 2019-11-27 17:04:06 --> Security Class Initialized
+DEBUG - 2019-11-27 17:04:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:04:06 --> Input Class Initialized
+INFO - 2019-11-27 17:04:06 --> Language Class Initialized
+INFO - 2019-11-27 17:04:06 --> Loader Class Initialized
+INFO - 2019-11-27 17:04:06 --> Controller Class Initialized
+ERROR - 2019-11-27 17:04:06 --> Severity: error --> Exception: Class Accueil already exists and doesn't extend CI_Model /home/E183835W/public_html/lockhome/system/core/Loader.php 353
+INFO - 2019-11-27 17:04:07 --> Config Class Initialized
+INFO - 2019-11-27 17:04:07 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:04:07 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:04:07 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:04:07 --> URI Class Initialized
+DEBUG - 2019-11-27 17:04:07 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:04:07 --> Router Class Initialized
+INFO - 2019-11-27 17:04:07 --> Output Class Initialized
+INFO - 2019-11-27 17:04:07 --> Security Class Initialized
+DEBUG - 2019-11-27 17:04:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:04:07 --> Input Class Initialized
+INFO - 2019-11-27 17:04:07 --> Language Class Initialized
+INFO - 2019-11-27 17:04:07 --> Loader Class Initialized
+INFO - 2019-11-27 17:04:07 --> Controller Class Initialized
+ERROR - 2019-11-27 17:04:07 --> Severity: error --> Exception: Class Accueil already exists and doesn't extend CI_Model /home/E183835W/public_html/lockhome/system/core/Loader.php 353
+INFO - 2019-11-27 17:04:51 --> Config Class Initialized
+INFO - 2019-11-27 17:04:51 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:04:51 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:04:51 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:04:51 --> URI Class Initialized
+DEBUG - 2019-11-27 17:04:51 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:04:51 --> Router Class Initialized
+INFO - 2019-11-27 17:04:51 --> Output Class Initialized
+INFO - 2019-11-27 17:04:51 --> Security Class Initialized
+DEBUG - 2019-11-27 17:04:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:04:51 --> Input Class Initialized
+INFO - 2019-11-27 17:04:51 --> Language Class Initialized
+INFO - 2019-11-27 17:04:51 --> Loader Class Initialized
+INFO - 2019-11-27 17:04:51 --> Controller Class Initialized
+ERROR - 2019-11-27 17:04:51 --> Severity: error --> Exception: Unable to locate the model you have specified: AccueilModele /home/E183835W/public_html/lockhome/system/core/Loader.php 348
+INFO - 2019-11-27 17:04:52 --> Config Class Initialized
+INFO - 2019-11-27 17:04:52 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:04:52 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:04:52 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:04:52 --> URI Class Initialized
+DEBUG - 2019-11-27 17:04:52 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:04:52 --> Router Class Initialized
+INFO - 2019-11-27 17:04:52 --> Output Class Initialized
+INFO - 2019-11-27 17:04:52 --> Security Class Initialized
+DEBUG - 2019-11-27 17:04:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:04:52 --> Input Class Initialized
+INFO - 2019-11-27 17:04:52 --> Language Class Initialized
+INFO - 2019-11-27 17:04:52 --> Loader Class Initialized
+INFO - 2019-11-27 17:04:52 --> Controller Class Initialized
+ERROR - 2019-11-27 17:04:52 --> Severity: error --> Exception: Unable to locate the model you have specified: AccueilModele /home/E183835W/public_html/lockhome/system/core/Loader.php 348
+INFO - 2019-11-27 17:05:01 --> Config Class Initialized
+INFO - 2019-11-27 17:05:01 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:05:01 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:05:01 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:05:01 --> URI Class Initialized
+DEBUG - 2019-11-27 17:05:01 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:05:01 --> Router Class Initialized
+INFO - 2019-11-27 17:05:01 --> Output Class Initialized
+INFO - 2019-11-27 17:05:01 --> Security Class Initialized
+DEBUG - 2019-11-27 17:05:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:05:01 --> Input Class Initialized
+INFO - 2019-11-27 17:05:01 --> Language Class Initialized
+INFO - 2019-11-27 17:05:01 --> Loader Class Initialized
+INFO - 2019-11-27 17:05:01 --> Controller Class Initialized
+INFO - 2019-11-27 17:05:01 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:05:01 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:05:01 --> Model "AccueilModele" initialized
+INFO - 2019-11-27 17:05:01 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:05:01 --> Final output sent to browser
+DEBUG - 2019-11-27 17:05:01 --> Total execution time: 0.0087
+INFO - 2019-11-27 17:08:12 --> Config Class Initialized
+INFO - 2019-11-27 17:08:12 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:08:12 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:08:12 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:08:12 --> URI Class Initialized
+DEBUG - 2019-11-27 17:08:12 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:08:12 --> Router Class Initialized
+INFO - 2019-11-27 17:08:12 --> Output Class Initialized
+INFO - 2019-11-27 17:08:12 --> Security Class Initialized
+DEBUG - 2019-11-27 17:08:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:08:12 --> Input Class Initialized
+INFO - 2019-11-27 17:08:12 --> Language Class Initialized
+INFO - 2019-11-27 17:08:12 --> Loader Class Initialized
+INFO - 2019-11-27 17:08:12 --> Controller Class Initialized
+INFO - 2019-11-27 17:08:12 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:08:12 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:08:12 --> Model "AccueilModele" initialized
+INFO - 2019-11-27 17:08:12 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:08:12 --> Final output sent to browser
+DEBUG - 2019-11-27 17:08:12 --> Total execution time: 0.0017
+INFO - 2019-11-27 17:08:19 --> Config Class Initialized
+INFO - 2019-11-27 17:08:19 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:08:19 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:08:19 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:08:19 --> URI Class Initialized
+DEBUG - 2019-11-27 17:08:19 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:08:19 --> Router Class Initialized
+INFO - 2019-11-27 17:08:19 --> Output Class Initialized
+INFO - 2019-11-27 17:08:19 --> Security Class Initialized
+DEBUG - 2019-11-27 17:08:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:08:19 --> Input Class Initialized
+INFO - 2019-11-27 17:08:19 --> Language Class Initialized
+INFO - 2019-11-27 17:08:19 --> Loader Class Initialized
+INFO - 2019-11-27 17:08:19 --> Controller Class Initialized
+INFO - 2019-11-27 17:08:19 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:08:19 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:08:19 --> Model "AccueilModele" initialized
+INFO - 2019-11-27 17:08:19 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:08:19 --> Final output sent to browser
+DEBUG - 2019-11-27 17:08:19 --> Total execution time: 0.0014
+INFO - 2019-11-27 17:08:24 --> Config Class Initialized
+INFO - 2019-11-27 17:08:24 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:08:24 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:08:24 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:08:24 --> URI Class Initialized
+DEBUG - 2019-11-27 17:08:24 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:08:24 --> Router Class Initialized
+INFO - 2019-11-27 17:08:24 --> Output Class Initialized
+INFO - 2019-11-27 17:08:24 --> Security Class Initialized
+DEBUG - 2019-11-27 17:08:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:08:24 --> Input Class Initialized
+INFO - 2019-11-27 17:08:24 --> Language Class Initialized
+INFO - 2019-11-27 17:08:24 --> Loader Class Initialized
+INFO - 2019-11-27 17:08:24 --> Controller Class Initialized
+INFO - 2019-11-27 17:08:24 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:08:24 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:08:24 --> Model "AccueilModele" initialized
+INFO - 2019-11-27 17:08:24 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:08:24 --> Final output sent to browser
+DEBUG - 2019-11-27 17:08:24 --> Total execution time: 0.0015
+INFO - 2019-11-27 17:08:25 --> Config Class Initialized
+INFO - 2019-11-27 17:08:25 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:08:25 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:08:25 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:08:25 --> URI Class Initialized
+DEBUG - 2019-11-27 17:08:25 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:08:25 --> Router Class Initialized
+INFO - 2019-11-27 17:08:25 --> Output Class Initialized
+INFO - 2019-11-27 17:08:25 --> Security Class Initialized
+DEBUG - 2019-11-27 17:08:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:08:25 --> Input Class Initialized
+INFO - 2019-11-27 17:08:25 --> Language Class Initialized
+INFO - 2019-11-27 17:08:25 --> Loader Class Initialized
+INFO - 2019-11-27 17:08:25 --> Controller Class Initialized
+INFO - 2019-11-27 17:08:25 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:08:25 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:08:25 --> Model "AccueilModele" initialized
+INFO - 2019-11-27 17:08:25 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:08:25 --> Final output sent to browser
+DEBUG - 2019-11-27 17:08:25 --> Total execution time: 0.0012
+INFO - 2019-11-27 17:08:25 --> Config Class Initialized
+INFO - 2019-11-27 17:08:25 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:08:25 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:08:25 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:08:25 --> URI Class Initialized
+DEBUG - 2019-11-27 17:08:25 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:08:25 --> Router Class Initialized
+INFO - 2019-11-27 17:08:25 --> Output Class Initialized
+INFO - 2019-11-27 17:08:25 --> Security Class Initialized
+DEBUG - 2019-11-27 17:08:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:08:25 --> Input Class Initialized
+INFO - 2019-11-27 17:08:25 --> Language Class Initialized
+INFO - 2019-11-27 17:08:25 --> Loader Class Initialized
+INFO - 2019-11-27 17:08:25 --> Controller Class Initialized
+INFO - 2019-11-27 17:08:25 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:08:25 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:08:25 --> Model "AccueilModele" initialized
+INFO - 2019-11-27 17:08:25 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:08:25 --> Final output sent to browser
+DEBUG - 2019-11-27 17:08:25 --> Total execution time: 0.0014
+INFO - 2019-11-27 17:08:25 --> Config Class Initialized
+INFO - 2019-11-27 17:08:25 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:08:25 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:08:25 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:08:25 --> URI Class Initialized
+DEBUG - 2019-11-27 17:08:25 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:08:25 --> Router Class Initialized
+INFO - 2019-11-27 17:08:25 --> Output Class Initialized
+INFO - 2019-11-27 17:08:25 --> Security Class Initialized
+DEBUG - 2019-11-27 17:08:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:08:25 --> Input Class Initialized
+INFO - 2019-11-27 17:08:25 --> Language Class Initialized
+INFO - 2019-11-27 17:08:25 --> Loader Class Initialized
+INFO - 2019-11-27 17:08:25 --> Controller Class Initialized
+INFO - 2019-11-27 17:08:25 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:08:25 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:08:25 --> Model "AccueilModele" initialized
+INFO - 2019-11-27 17:08:25 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:08:25 --> Final output sent to browser
+DEBUG - 2019-11-27 17:08:25 --> Total execution time: 0.0013
+INFO - 2019-11-27 17:08:29 --> Config Class Initialized
+INFO - 2019-11-27 17:08:29 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:08:29 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:08:29 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:08:29 --> URI Class Initialized
+DEBUG - 2019-11-27 17:08:29 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:08:29 --> Router Class Initialized
+INFO - 2019-11-27 17:08:29 --> Output Class Initialized
+INFO - 2019-11-27 17:08:29 --> Security Class Initialized
+DEBUG - 2019-11-27 17:08:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:08:29 --> Input Class Initialized
+INFO - 2019-11-27 17:08:29 --> Language Class Initialized
+INFO - 2019-11-27 17:08:29 --> Loader Class Initialized
+INFO - 2019-11-27 17:08:29 --> Controller Class Initialized
+INFO - 2019-11-27 17:08:29 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:08:29 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:08:29 --> Model "AccueilModele" initialized
+INFO - 2019-11-27 17:08:29 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:08:29 --> Final output sent to browser
+DEBUG - 2019-11-27 17:08:29 --> Total execution time: 0.0015
+INFO - 2019-11-27 17:08:32 --> Config Class Initialized
+INFO - 2019-11-27 17:08:32 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:08:32 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:08:32 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:08:32 --> URI Class Initialized
+DEBUG - 2019-11-27 17:08:32 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:08:32 --> Router Class Initialized
+INFO - 2019-11-27 17:08:32 --> Output Class Initialized
+INFO - 2019-11-27 17:08:32 --> Security Class Initialized
+DEBUG - 2019-11-27 17:08:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:08:32 --> Input Class Initialized
+INFO - 2019-11-27 17:08:32 --> Language Class Initialized
+INFO - 2019-11-27 17:08:32 --> Loader Class Initialized
+INFO - 2019-11-27 17:08:32 --> Controller Class Initialized
+INFO - 2019-11-27 17:08:32 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:08:32 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:08:32 --> Model "AccueilModele" initialized
+INFO - 2019-11-27 17:08:32 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:08:32 --> Final output sent to browser
+DEBUG - 2019-11-27 17:08:32 --> Total execution time: 0.0014
+INFO - 2019-11-27 17:08:35 --> Config Class Initialized
+INFO - 2019-11-27 17:08:35 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:08:35 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:08:35 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:08:35 --> URI Class Initialized
+DEBUG - 2019-11-27 17:08:35 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:08:35 --> Router Class Initialized
+INFO - 2019-11-27 17:08:35 --> Output Class Initialized
+INFO - 2019-11-27 17:08:35 --> Security Class Initialized
+DEBUG - 2019-11-27 17:08:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:08:35 --> Input Class Initialized
+INFO - 2019-11-27 17:08:35 --> Language Class Initialized
+INFO - 2019-11-27 17:08:35 --> Loader Class Initialized
+INFO - 2019-11-27 17:08:35 --> Controller Class Initialized
+INFO - 2019-11-27 17:08:35 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:08:35 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:08:35 --> Model "AccueilModele" initialized
+INFO - 2019-11-27 17:08:35 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:08:35 --> Final output sent to browser
+DEBUG - 2019-11-27 17:08:35 --> Total execution time: 0.0015
+INFO - 2019-11-27 17:11:15 --> Config Class Initialized
+INFO - 2019-11-27 17:11:15 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:11:15 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:11:15 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:11:15 --> URI Class Initialized
+DEBUG - 2019-11-27 17:11:15 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:11:15 --> Router Class Initialized
+INFO - 2019-11-27 17:11:15 --> Output Class Initialized
+INFO - 2019-11-27 17:11:15 --> Security Class Initialized
+DEBUG - 2019-11-27 17:11:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:11:15 --> Input Class Initialized
+INFO - 2019-11-27 17:11:15 --> Language Class Initialized
+INFO - 2019-11-27 17:11:15 --> Loader Class Initialized
+INFO - 2019-11-27 17:11:15 --> Controller Class Initialized
+INFO - 2019-11-27 17:11:15 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:11:15 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:11:15 --> Model "AccueilModele" initialized
+INFO - 2019-11-27 17:11:15 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:11:15 --> Final output sent to browser
+DEBUG - 2019-11-27 17:11:15 --> Total execution time: 0.0015
+INFO - 2019-11-27 17:11:44 --> Config Class Initialized
+INFO - 2019-11-27 17:11:44 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:11:44 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:11:44 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:11:44 --> URI Class Initialized
+DEBUG - 2019-11-27 17:11:44 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:11:44 --> Router Class Initialized
+INFO - 2019-11-27 17:11:44 --> Output Class Initialized
+INFO - 2019-11-27 17:11:44 --> Security Class Initialized
+DEBUG - 2019-11-27 17:11:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:11:44 --> Input Class Initialized
+INFO - 2019-11-27 17:11:44 --> Language Class Initialized
+INFO - 2019-11-27 17:11:44 --> Loader Class Initialized
+INFO - 2019-11-27 17:11:44 --> Controller Class Initialized
+INFO - 2019-11-27 17:11:44 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:11:44 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:11:44 --> Model "AccueilModele" initialized
+INFO - 2019-11-27 17:11:44 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:11:44 --> Final output sent to browser
+DEBUG - 2019-11-27 17:11:44 --> Total execution time: 0.0015
+INFO - 2019-11-27 17:11:44 --> Config Class Initialized
+INFO - 2019-11-27 17:11:44 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:11:44 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:11:44 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:11:44 --> URI Class Initialized
+DEBUG - 2019-11-27 17:11:44 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:11:44 --> Router Class Initialized
+INFO - 2019-11-27 17:11:44 --> Output Class Initialized
+INFO - 2019-11-27 17:11:44 --> Security Class Initialized
+DEBUG - 2019-11-27 17:11:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:11:44 --> Input Class Initialized
+INFO - 2019-11-27 17:11:44 --> Language Class Initialized
+INFO - 2019-11-27 17:11:44 --> Loader Class Initialized
+INFO - 2019-11-27 17:11:44 --> Controller Class Initialized
+INFO - 2019-11-27 17:11:44 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:11:44 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:11:44 --> Model "AccueilModele" initialized
+INFO - 2019-11-27 17:11:44 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:11:44 --> Final output sent to browser
+DEBUG - 2019-11-27 17:11:44 --> Total execution time: 0.0012
+INFO - 2019-11-27 17:11:45 --> Config Class Initialized
+INFO - 2019-11-27 17:11:45 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:11:45 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:11:45 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:11:45 --> URI Class Initialized
+DEBUG - 2019-11-27 17:11:45 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:11:45 --> Router Class Initialized
+INFO - 2019-11-27 17:11:45 --> Output Class Initialized
+INFO - 2019-11-27 17:11:45 --> Security Class Initialized
+DEBUG - 2019-11-27 17:11:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:11:45 --> Input Class Initialized
+INFO - 2019-11-27 17:11:45 --> Language Class Initialized
+INFO - 2019-11-27 17:11:45 --> Loader Class Initialized
+INFO - 2019-11-27 17:11:45 --> Controller Class Initialized
+INFO - 2019-11-27 17:11:45 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:11:45 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:11:45 --> Model "AccueilModele" initialized
+INFO - 2019-11-27 17:11:45 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:11:45 --> Final output sent to browser
+DEBUG - 2019-11-27 17:11:45 --> Total execution time: 0.0011
+INFO - 2019-11-27 17:11:45 --> Config Class Initialized
+INFO - 2019-11-27 17:11:45 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:11:45 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:11:45 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:11:45 --> URI Class Initialized
+DEBUG - 2019-11-27 17:11:45 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:11:45 --> Router Class Initialized
+INFO - 2019-11-27 17:11:45 --> Output Class Initialized
+INFO - 2019-11-27 17:11:45 --> Security Class Initialized
+DEBUG - 2019-11-27 17:11:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:11:45 --> Input Class Initialized
+INFO - 2019-11-27 17:11:45 --> Language Class Initialized
+INFO - 2019-11-27 17:11:45 --> Loader Class Initialized
+INFO - 2019-11-27 17:11:45 --> Controller Class Initialized
+INFO - 2019-11-27 17:11:45 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:11:45 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:11:45 --> Model "AccueilModele" initialized
+INFO - 2019-11-27 17:11:45 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:11:45 --> Final output sent to browser
+DEBUG - 2019-11-27 17:11:45 --> Total execution time: 0.0012
+INFO - 2019-11-27 17:11:45 --> Config Class Initialized
+INFO - 2019-11-27 17:11:45 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:11:45 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:11:45 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:11:45 --> URI Class Initialized
+DEBUG - 2019-11-27 17:11:45 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:11:45 --> Router Class Initialized
+INFO - 2019-11-27 17:11:45 --> Output Class Initialized
+INFO - 2019-11-27 17:11:45 --> Security Class Initialized
+DEBUG - 2019-11-27 17:11:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:11:45 --> Input Class Initialized
+INFO - 2019-11-27 17:11:45 --> Language Class Initialized
+INFO - 2019-11-27 17:11:45 --> Loader Class Initialized
+INFO - 2019-11-27 17:11:45 --> Controller Class Initialized
+INFO - 2019-11-27 17:11:45 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:11:45 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:11:45 --> Model "AccueilModele" initialized
+INFO - 2019-11-27 17:11:45 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:11:45 --> Final output sent to browser
+DEBUG - 2019-11-27 17:11:45 --> Total execution time: 0.0010
+INFO - 2019-11-27 17:15:04 --> Config Class Initialized
+INFO - 2019-11-27 17:15:04 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:15:04 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:15:04 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:15:04 --> URI Class Initialized
+DEBUG - 2019-11-27 17:15:04 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:15:04 --> Router Class Initialized
+INFO - 2019-11-27 17:15:04 --> Output Class Initialized
+INFO - 2019-11-27 17:15:04 --> Security Class Initialized
+DEBUG - 2019-11-27 17:15:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:15:04 --> Input Class Initialized
+INFO - 2019-11-27 17:15:04 --> Language Class Initialized
+INFO - 2019-11-27 17:15:04 --> Loader Class Initialized
+INFO - 2019-11-27 17:15:04 --> Controller Class Initialized
+INFO - 2019-11-27 17:15:04 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:15:04 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:15:04 --> Model "AccueilModele" initialized
+INFO - 2019-11-27 17:15:04 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:15:04 --> Final output sent to browser
+DEBUG - 2019-11-27 17:15:04 --> Total execution time: 0.0017
+INFO - 2019-11-27 17:16:08 --> Config Class Initialized
+INFO - 2019-11-27 17:16:08 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:16:08 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:16:08 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:16:08 --> URI Class Initialized
+DEBUG - 2019-11-27 17:16:08 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:16:08 --> Router Class Initialized
+INFO - 2019-11-27 17:16:08 --> Output Class Initialized
+INFO - 2019-11-27 17:16:08 --> Security Class Initialized
+DEBUG - 2019-11-27 17:16:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:16:08 --> Input Class Initialized
+INFO - 2019-11-27 17:16:08 --> Language Class Initialized
+INFO - 2019-11-27 17:16:08 --> Loader Class Initialized
+INFO - 2019-11-27 17:16:08 --> Controller Class Initialized
+INFO - 2019-11-27 17:16:08 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:16:08 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:16:08 --> Model "AccueilModele" initialized
+INFO - 2019-11-27 17:16:08 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:16:08 --> Final output sent to browser
+DEBUG - 2019-11-27 17:16:08 --> Total execution time: 0.0024
+INFO - 2019-11-27 17:16:08 --> Config Class Initialized
+INFO - 2019-11-27 17:16:08 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:16:08 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:16:08 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:16:08 --> URI Class Initialized
+DEBUG - 2019-11-27 17:16:08 --> No URI present. Default controller set.
+INFO - 2019-11-27 17:16:08 --> Router Class Initialized
+INFO - 2019-11-27 17:16:08 --> Output Class Initialized
+INFO - 2019-11-27 17:16:08 --> Security Class Initialized
+DEBUG - 2019-11-27 17:16:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:16:08 --> Input Class Initialized
+INFO - 2019-11-27 17:16:08 --> Language Class Initialized
+INFO - 2019-11-27 17:16:08 --> Loader Class Initialized
+INFO - 2019-11-27 17:16:08 --> Controller Class Initialized
+INFO - 2019-11-27 17:16:08 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:16:08 --> Database Driver Class Initialized
+INFO - 2019-11-27 17:16:08 --> Model "AccueilModele" initialized
+INFO - 2019-11-27 17:16:08 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:16:08 --> Final output sent to browser
+DEBUG - 2019-11-27 17:16:08 --> Total execution time: 0.0013
+INFO - 2019-11-27 17:16:13 --> Config Class Initialized
+INFO - 2019-11-27 17:16:13 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:16:13 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:16:13 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:16:13 --> URI Class Initialized
+INFO - 2019-11-27 17:16:13 --> Router Class Initialized
+INFO - 2019-11-27 17:16:13 --> Output Class Initialized
+INFO - 2019-11-27 17:16:13 --> Security Class Initialized
+DEBUG - 2019-11-27 17:16:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:16:13 --> Input Class Initialized
+INFO - 2019-11-27 17:16:13 --> Language Class Initialized
+ERROR - 2019-11-27 17:16:13 --> 404 Page Not Found: Authentification/connexiondsffsdfd
+INFO - 2019-11-27 17:16:44 --> Config Class Initialized
+INFO - 2019-11-27 17:16:44 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:16:44 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:16:44 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:16:44 --> URI Class Initialized
+INFO - 2019-11-27 17:16:44 --> Router Class Initialized
+INFO - 2019-11-27 17:16:44 --> Output Class Initialized
+INFO - 2019-11-27 17:16:44 --> Security Class Initialized
+DEBUG - 2019-11-27 17:16:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:16:44 --> Input Class Initialized
+INFO - 2019-11-27 17:16:44 --> Language Class Initialized
+ERROR - 2019-11-27 17:16:44 --> 404 Page Not Found: Authentification/connexiondsffsdfd
+INFO - 2019-11-27 17:17:15 --> Config Class Initialized
+INFO - 2019-11-27 17:17:15 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:17:15 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:17:15 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:17:15 --> URI Class Initialized
+INFO - 2019-11-27 17:17:15 --> Router Class Initialized
+INFO - 2019-11-27 17:17:15 --> Output Class Initialized
+INFO - 2019-11-27 17:17:15 --> Security Class Initialized
+DEBUG - 2019-11-27 17:17:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:17:15 --> Input Class Initialized
+INFO - 2019-11-27 17:17:15 --> Language Class Initialized
+ERROR - 2019-11-27 17:17:15 --> 404 Page Not Found: Connexion/index
+INFO - 2019-11-27 17:17:20 --> Config Class Initialized
+INFO - 2019-11-27 17:17:20 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:17:20 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:17:20 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:17:20 --> URI Class Initialized
+INFO - 2019-11-27 17:17:20 --> Router Class Initialized
+INFO - 2019-11-27 17:17:20 --> Output Class Initialized
+INFO - 2019-11-27 17:17:20 --> Security Class Initialized
+DEBUG - 2019-11-27 17:17:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:17:20 --> Input Class Initialized
+INFO - 2019-11-27 17:17:20 --> Language Class Initialized
+INFO - 2019-11-27 17:17:20 --> Loader Class Initialized
+INFO - 2019-11-27 17:17:20 --> Controller Class Initialized
+INFO - 2019-11-27 17:17:20 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:17:20 --> Final output sent to browser
+DEBUG - 2019-11-27 17:17:20 --> Total execution time: 0.0009
+INFO - 2019-11-27 17:19:13 --> Config Class Initialized
+INFO - 2019-11-27 17:19:13 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:19:13 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:19:13 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:19:13 --> URI Class Initialized
+INFO - 2019-11-27 17:19:13 --> Router Class Initialized
+INFO - 2019-11-27 17:19:13 --> Output Class Initialized
+INFO - 2019-11-27 17:19:13 --> Security Class Initialized
+DEBUG - 2019-11-27 17:19:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:19:13 --> Input Class Initialized
+INFO - 2019-11-27 17:19:13 --> Language Class Initialized
+INFO - 2019-11-27 17:19:13 --> Loader Class Initialized
+INFO - 2019-11-27 17:19:13 --> Controller Class Initialized
+INFO - 2019-11-27 17:19:13 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:19:18 --> Config Class Initialized
+INFO - 2019-11-27 17:19:18 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:19:18 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:19:18 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:19:18 --> URI Class Initialized
+INFO - 2019-11-27 17:19:18 --> Router Class Initialized
+INFO - 2019-11-27 17:19:18 --> Output Class Initialized
+INFO - 2019-11-27 17:19:18 --> Security Class Initialized
+DEBUG - 2019-11-27 17:19:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:19:18 --> Input Class Initialized
+INFO - 2019-11-27 17:19:18 --> Language Class Initialized
+INFO - 2019-11-27 17:19:18 --> Loader Class Initialized
+INFO - 2019-11-27 17:19:18 --> Controller Class Initialized
+INFO - 2019-11-27 17:19:18 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:19:18 --> File loaded: /home/E183835W/public_html/lockhome/application/views/auth/connexion.html
+INFO - 2019-11-27 17:19:18 --> Final output sent to browser
+DEBUG - 2019-11-27 17:19:18 --> Total execution time: 0.0012
+INFO - 2019-11-27 17:19:18 --> Config Class Initialized
+INFO - 2019-11-27 17:19:18 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:19:18 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:19:18 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:19:18 --> URI Class Initialized
+INFO - 2019-11-27 17:19:18 --> Router Class Initialized
+INFO - 2019-11-27 17:19:18 --> Output Class Initialized
+INFO - 2019-11-27 17:19:18 --> Security Class Initialized
+DEBUG - 2019-11-27 17:19:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:19:18 --> Input Class Initialized
+INFO - 2019-11-27 17:19:18 --> Language Class Initialized
+ERROR - 2019-11-27 17:19:18 --> 404 Page Not Found: CSS/connexion.css
+INFO - 2019-11-27 17:19:18 --> Config Class Initialized
+INFO - 2019-11-27 17:19:18 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:19:18 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:19:18 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:19:18 --> URI Class Initialized
+INFO - 2019-11-27 17:19:18 --> Router Class Initialized
+INFO - 2019-11-27 17:19:18 --> Output Class Initialized
+INFO - 2019-11-27 17:19:18 --> Security Class Initialized
+DEBUG - 2019-11-27 17:19:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:19:18 --> Input Class Initialized
+INFO - 2019-11-27 17:19:18 --> Language Class Initialized
+ERROR - 2019-11-27 17:19:18 --> 404 Page Not Found: Ressources/logo.png
+INFO - 2019-11-27 17:23:01 --> Config Class Initialized
+INFO - 2019-11-27 17:23:01 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:23:01 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:23:01 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:23:01 --> URI Class Initialized
+INFO - 2019-11-27 17:23:01 --> Router Class Initialized
+INFO - 2019-11-27 17:23:01 --> Output Class Initialized
+INFO - 2019-11-27 17:23:01 --> Security Class Initialized
+DEBUG - 2019-11-27 17:23:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:23:01 --> Input Class Initialized
+INFO - 2019-11-27 17:23:01 --> Language Class Initialized
+INFO - 2019-11-27 17:23:01 --> Loader Class Initialized
+INFO - 2019-11-27 17:23:01 --> Controller Class Initialized
+INFO - 2019-11-27 17:23:01 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:23:01 --> File loaded: /home/E183835W/public_html/lockhome/application/views/auth/connexion.php
+INFO - 2019-11-27 17:23:01 --> Final output sent to browser
+DEBUG - 2019-11-27 17:23:01 --> Total execution time: 0.0011
+INFO - 2019-11-27 17:23:02 --> Config Class Initialized
+INFO - 2019-11-27 17:23:02 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:23:02 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:23:02 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:23:02 --> URI Class Initialized
+INFO - 2019-11-27 17:23:02 --> Router Class Initialized
+INFO - 2019-11-27 17:23:02 --> Output Class Initialized
+INFO - 2019-11-27 17:23:02 --> Security Class Initialized
+DEBUG - 2019-11-27 17:23:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:23:02 --> Input Class Initialized
+INFO - 2019-11-27 17:23:02 --> Language Class Initialized
+ERROR - 2019-11-27 17:23:02 --> 404 Page Not Found: Ressources/logo.png
+INFO - 2019-11-27 17:24:26 --> Config Class Initialized
+INFO - 2019-11-27 17:24:26 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:24:26 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:24:26 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:24:26 --> URI Class Initialized
+INFO - 2019-11-27 17:24:26 --> Router Class Initialized
+INFO - 2019-11-27 17:24:26 --> Output Class Initialized
+INFO - 2019-11-27 17:24:26 --> Security Class Initialized
+DEBUG - 2019-11-27 17:24:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:24:26 --> Input Class Initialized
+INFO - 2019-11-27 17:24:26 --> Language Class Initialized
+INFO - 2019-11-27 17:24:26 --> Loader Class Initialized
+INFO - 2019-11-27 17:24:26 --> Controller Class Initialized
+INFO - 2019-11-27 17:24:26 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:24:26 --> File loaded: /home/E183835W/public_html/lockhome/application/views/auth/connexion.php
+INFO - 2019-11-27 17:24:26 --> Final output sent to browser
+DEBUG - 2019-11-27 17:24:26 --> Total execution time: 0.0010
+INFO - 2019-11-27 17:24:26 --> Config Class Initialized
+INFO - 2019-11-27 17:24:26 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:24:26 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:24:26 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:24:26 --> URI Class Initialized
+INFO - 2019-11-27 17:24:26 --> Router Class Initialized
+INFO - 2019-11-27 17:24:26 --> Output Class Initialized
+INFO - 2019-11-27 17:24:26 --> Security Class Initialized
+DEBUG - 2019-11-27 17:24:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:24:26 --> Input Class Initialized
+INFO - 2019-11-27 17:24:26 --> Language Class Initialized
+ERROR - 2019-11-27 17:24:26 --> 404 Page Not Found: Ressources/logo.png
+INFO - 2019-11-27 17:24:26 --> Config Class Initialized
+INFO - 2019-11-27 17:24:26 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:24:26 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:24:26 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:24:26 --> URI Class Initialized
+INFO - 2019-11-27 17:24:26 --> Router Class Initialized
+INFO - 2019-11-27 17:24:26 --> Output Class Initialized
+INFO - 2019-11-27 17:24:26 --> Security Class Initialized
+DEBUG - 2019-11-27 17:24:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:24:26 --> Input Class Initialized
+INFO - 2019-11-27 17:24:26 --> Language Class Initialized
+INFO - 2019-11-27 17:24:26 --> Loader Class Initialized
+INFO - 2019-11-27 17:24:26 --> Controller Class Initialized
+INFO - 2019-11-27 17:24:26 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:24:26 --> File loaded: /home/E183835W/public_html/lockhome/application/views/auth/connexion.php
+INFO - 2019-11-27 17:24:26 --> Final output sent to browser
+DEBUG - 2019-11-27 17:24:26 --> Total execution time: 0.0008
+INFO - 2019-11-27 17:24:26 --> Config Class Initialized
+INFO - 2019-11-27 17:24:26 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:24:26 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:24:26 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:24:26 --> URI Class Initialized
+INFO - 2019-11-27 17:24:26 --> Router Class Initialized
+INFO - 2019-11-27 17:24:26 --> Output Class Initialized
+INFO - 2019-11-27 17:24:26 --> Security Class Initialized
+DEBUG - 2019-11-27 17:24:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:24:26 --> Input Class Initialized
+INFO - 2019-11-27 17:24:26 --> Language Class Initialized
+ERROR - 2019-11-27 17:24:26 --> 404 Page Not Found: Ressources/logo.png
+INFO - 2019-11-27 17:24:27 --> Config Class Initialized
+INFO - 2019-11-27 17:24:27 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:24:27 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:24:27 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:24:27 --> URI Class Initialized
+INFO - 2019-11-27 17:24:27 --> Router Class Initialized
+INFO - 2019-11-27 17:24:27 --> Output Class Initialized
+INFO - 2019-11-27 17:24:27 --> Security Class Initialized
+DEBUG - 2019-11-27 17:24:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:24:27 --> Input Class Initialized
+INFO - 2019-11-27 17:24:27 --> Language Class Initialized
+INFO - 2019-11-27 17:24:27 --> Loader Class Initialized
+INFO - 2019-11-27 17:24:27 --> Controller Class Initialized
+INFO - 2019-11-27 17:24:27 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:24:27 --> File loaded: /home/E183835W/public_html/lockhome/application/views/auth/connexion.php
+INFO - 2019-11-27 17:24:27 --> Final output sent to browser
+DEBUG - 2019-11-27 17:24:27 --> Total execution time: 0.0008
+INFO - 2019-11-27 17:24:27 --> Config Class Initialized
+INFO - 2019-11-27 17:24:27 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:24:27 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:24:27 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:24:27 --> URI Class Initialized
+INFO - 2019-11-27 17:24:27 --> Router Class Initialized
+INFO - 2019-11-27 17:24:27 --> Output Class Initialized
+INFO - 2019-11-27 17:24:27 --> Security Class Initialized
+DEBUG - 2019-11-27 17:24:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:24:27 --> Input Class Initialized
+INFO - 2019-11-27 17:24:27 --> Language Class Initialized
+ERROR - 2019-11-27 17:24:27 --> 404 Page Not Found: Ressources/logo.png
+INFO - 2019-11-27 17:24:33 --> Config Class Initialized
+INFO - 2019-11-27 17:24:33 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:24:33 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:24:33 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:24:33 --> URI Class Initialized
+INFO - 2019-11-27 17:24:33 --> Router Class Initialized
+INFO - 2019-11-27 17:24:33 --> Output Class Initialized
+INFO - 2019-11-27 17:24:33 --> Security Class Initialized
+DEBUG - 2019-11-27 17:24:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:24:33 --> Input Class Initialized
+INFO - 2019-11-27 17:24:33 --> Language Class Initialized
+INFO - 2019-11-27 17:24:33 --> Loader Class Initialized
+INFO - 2019-11-27 17:24:33 --> Controller Class Initialized
+INFO - 2019-11-27 17:24:33 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:24:33 --> File loaded: /home/E183835W/public_html/lockhome/application/views/auth/connexion.php
+INFO - 2019-11-27 17:24:33 --> Final output sent to browser
+DEBUG - 2019-11-27 17:24:33 --> Total execution time: 0.0009
+INFO - 2019-11-27 17:24:35 --> Config Class Initialized
+INFO - 2019-11-27 17:24:35 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:24:35 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:24:35 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:24:35 --> URI Class Initialized
+INFO - 2019-11-27 17:24:35 --> Router Class Initialized
+INFO - 2019-11-27 17:24:35 --> Output Class Initialized
+INFO - 2019-11-27 17:24:35 --> Security Class Initialized
+DEBUG - 2019-11-27 17:24:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:24:35 --> Input Class Initialized
+INFO - 2019-11-27 17:24:35 --> Language Class Initialized
+INFO - 2019-11-27 17:24:35 --> Loader Class Initialized
+INFO - 2019-11-27 17:24:35 --> Controller Class Initialized
+INFO - 2019-11-27 17:24:35 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:24:35 --> File loaded: /home/E183835W/public_html/lockhome/application/views/auth/connexion.php
+INFO - 2019-11-27 17:24:35 --> Final output sent to browser
+DEBUG - 2019-11-27 17:24:35 --> Total execution time: 0.0009
+INFO - 2019-11-27 17:24:39 --> Config Class Initialized
+INFO - 2019-11-27 17:24:39 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:24:39 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:24:39 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:24:39 --> URI Class Initialized
+INFO - 2019-11-27 17:24:39 --> Router Class Initialized
+INFO - 2019-11-27 17:24:39 --> Output Class Initialized
+INFO - 2019-11-27 17:24:39 --> Security Class Initialized
+DEBUG - 2019-11-27 17:24:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:24:39 --> Input Class Initialized
+INFO - 2019-11-27 17:24:39 --> Language Class Initialized
+ERROR - 2019-11-27 17:24:39 --> 404 Page Not Found: Mdp_oubliehtml/index
+INFO - 2019-11-27 17:25:46 --> Config Class Initialized
+INFO - 2019-11-27 17:25:46 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:25:46 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:25:46 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:25:46 --> URI Class Initialized
+INFO - 2019-11-27 17:25:46 --> Router Class Initialized
+INFO - 2019-11-27 17:25:46 --> Output Class Initialized
+INFO - 2019-11-27 17:25:46 --> Security Class Initialized
+DEBUG - 2019-11-27 17:25:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:25:46 --> Input Class Initialized
+INFO - 2019-11-27 17:25:46 --> Language Class Initialized
+INFO - 2019-11-27 17:25:46 --> Loader Class Initialized
+INFO - 2019-11-27 17:25:46 --> Controller Class Initialized
+INFO - 2019-11-27 17:25:46 --> Helper loaded: url_helper
+INFO - 2019-11-27 17:25:46 --> File loaded: /home/E183835W/public_html/lockhome/application/views/auth/connexion.php
+INFO - 2019-11-27 17:25:46 --> Final output sent to browser
+DEBUG - 2019-11-27 17:25:46 --> Total execution time: 0.0010
+INFO - 2019-11-27 17:25:52 --> Config Class Initialized
+INFO - 2019-11-27 17:25:52 --> Hooks Class Initialized
+DEBUG - 2019-11-27 17:25:52 --> UTF-8 Support Enabled
+INFO - 2019-11-27 17:25:52 --> Utf8 Class Initialized
+INFO - 2019-11-27 17:25:52 --> URI Class Initialized
+INFO - 2019-11-27 17:25:52 --> Router Class Initialized
+INFO - 2019-11-27 17:25:52 --> Output Class Initialized
+INFO - 2019-11-27 17:25:52 --> Security Class Initialized
+DEBUG - 2019-11-27 17:25:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-11-27 17:25:52 --> Input Class Initialized
+INFO - 2019-11-27 17:25:52 --> Language Class Initialized
+ERROR - 2019-11-27 17:25:52 --> 404 Page Not Found: Authentification/inscription

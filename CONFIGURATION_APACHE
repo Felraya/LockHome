@@ -1,0 +1,16 @@
+<Directory /home/lockhome>
+    Options Indexes FollowSymLinks Includes ExecCGI
+    AllowOverride All
+    Require all granted
+    Allow from all
+</Directory>
+
+<VirtualHost lockhome.nrocher.fr:80>
+        ServerName lockhome.nrocher.fr
+
+        ServerAdmin admin@admin
+        DocumentRoot /home/lockhome/lockhome
+
+        ProxyRequests on
+        ProxyPassMatch "^/camera/stream/(.*)" "http://$1/"
+</VirtualHost>

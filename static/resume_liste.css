@@ -1,0 +1,48 @@
+.red_intrusion {
+    color: white;
+    flex-direction: column;
+    width: 100%;
+    border-radius: 5px;
+    background: #c62828;
+}
+
+.in_red_intrusion {
+    width: 100%;
+}
+
+a.go_to_camera {
+    padding: 10px 0;
+    text-decoration: none;
+    background: rgba(255, 255, 255, 0.1);
+    transition: background .3s;
+    color: white;
+}
+
+a.go_to_camera:hover,
+.poubelle_lien:hover {
+    background: rgba(255, 255, 255, 0.3);
+}
+
+.poubelle_lien{
+    background: rgba(255, 255, 255, 0.1);
+    transition: background .3s;
+    color: white;
+    border-top-right-radius: 5px;
+}
+
+.poubelle{
+    height: 93px;
+    width: 79px;
+}
+
+.intrusion_detected {
+    font-size: 19px;
+    display: flex;
+    align-items: center;
+    margin: 15px auto;
+}
+
+.detailIntrusion {
+    margin-bottom: 15px;
+}
+

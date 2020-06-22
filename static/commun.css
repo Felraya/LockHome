@@ -1,0 +1,409 @@
+/*
+    POUR L'UTILISATION DE CE FICHIER CSS
+    PENSER A L'INCLURE DANS L'ENTETE DU
+    FICHIER HTML.
+    ENSUITE IL SUFFIT D'UTILISER LES BONS
+    SELECTEURS AINSI QUE LES BONS PATTERN 
+    ET CONTENEUR.
+*/
+
+
+/**************************************************************************
+##### EXEMPLE CONTENT OF BUTTON #####
+Permet de disposer les éléments à gauche et à droite
+
+<div class="l_r">
+     <div class="left">
+     ...
+     </div>
+     <div class="right">
+     ...
+     </div>
+</div>
+*/
+
+.l_r {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.l_r .right,
+.l_r .left {
+    display: flex;
+    align-items: center;
+}
+
+.l_r .right {
+    justify-content: flex-end;
+}
+
+.l_r .left > * {
+    margin-left: 15px;
+}
+
+.l_r .right > * {
+    margin-right: 15px;
+}
+
+.l_r button {
+    padding: 0;
+    margin: 0;
+    background: none;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+}
+
+
+/* CLASSE A UTILISER POUR LES DIFFERENTS BLOC DU SITE */
+
+.bloc{
+    min-height: 30px;
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+}
+
+.bloc .content_bloc .text{
+    margin: auto 15px auto 30px;
+    padding-bottom: 20px;
+}
+
+.container_bloc{
+    border-radius: 5px;
+    flex-direction: column;
+}
+
+.container_bloc > *{
+    width: 100%;
+}
+
+.container_bloc.one_line_bloc{
+    flex-direction: row;
+    height: 50px;
+}
+
+.container_bloc.severals_lines_bloc{
+    flex-direction: column;
+}
+
+a.container_bloc{
+    transition: box-shadow .3s, background .3s, color .3s;
+}
+
+a.container_bloc:hover{
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+
+.container_bloc .link_in_bloc{
+    padding: 10px 0;
+    background: rgba(255, 255, 255, 0.1);
+    transition: background .3s;
+}
+
+.container_bloc .link_in_bloc:hover{
+    background: rgba(255, 255, 255, 0.3);
+}
+
+.container_bloc .title_bloc{
+    margin: 15px 0px 15px 0px;
+    font-size: 19px;
+}
+
+.content_bloc .content_title{
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.bloc img {
+    border-top-left-radius: 5px; 
+    border-top-right-radius: 5px; 
+    width: 100%; 
+    height: 200px;
+    object-fit: cover;
+}
+
+.container_bloc .spacing_bottom {
+    margin-bottom: 15px;
+}
+
+.container_bloc .spacing_left {
+    margin-left: 10px;
+}
+
+.container_bloc input{
+    flex: 1;
+    outline: none;
+    border: none;
+}
+
+.timer_input_bloc{
+    display: flex;
+    justify-content: center;
+    border: 0;
+}
+
+.timer_input_bloc > div:nth-child(1){
+    margin-right: 15px;    
+}
+
+.timer_input_bloc > div input{
+    border: 0;
+    outline: none;
+    border-radius: 5px;
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.15);
+    padding: 15px;
+}
+
+.timer_input_bloc div > p{
+    margin-bottom: 10px;
+    font-weight: bolder;
+}
+
+.bloc .element{
+    padding: 15px;
+}
+
+.container_bloc .content_in_column{
+    flex-direction: column;
+    margin-left: 15px;
+}
+
+.container_bloc .content_in_column > div:nth-child(1){
+    font-size: 19px;
+    display: flex;
+    align-items: center;
+    margin: 15px auto;
+}
+
+.container_bloc .selecteur_input{
+    flex-shrink: 0;
+    border-radius: 5px;
+    padding: 15px;
+    border: 0;
+    outline: none;
+}
+
+.redHover:hover{
+    background-color: #c62828;
+    color: white;
+}
+
+main .bottom {
+    position: absolute;
+    bottom: 15px;
+    width: 90%;
+}
+
+/***************************************************************************
+##### EXEMPLE COULEUR #####
+Ajout des couleurs (utilisé pour nimporte quel composant)
+
+<a href="###" class="simple_button_link l_r blue">
+   <div class="left">
+        <i class='uil uil-plus-circle'></i>
+        <div class="title">Text</div>
+   </div>
+   <div class="right">
+        <i class='uil uil-angle-right'></i>
+   </div>
+</a>
+*/
+
+main .red,
+.red {
+    color: #c62828;
+}
+
+main .blue,
+.blue {
+    color: #4C84FF;
+}
+
+main .black,
+.black {
+    color: black;
+}
+
+main .green,
+.green {
+    color: #27AE60;
+}
+
+main .orange,
+.orange {
+    color: orange;
+}
+
+main .white,
+.white {
+    color: white;
+}
+
+
+.red_b {
+    background-color: #c62828;
+}
+
+.blue_b {
+    background-color: #4C84FF;
+}
+
+.black_b {
+    background-color: black;
+}
+
+.green_b {
+    background-color: #27AE60;
+}
+
+.orange_b {
+    background-color: orange;
+}
+
+.white_b {
+    background-color: white;
+}
+
+/***************************************************************************
+##### EXEMPLE CHECKBOX #####
+Mise en forme des checkbox
+
+<label for="###" class="l_r profil_capteur">
+   <div class="left">Text à coté du bouton</div>
+   <div class="right">
+        <input id="baie_vitree" checked="checked" type="checkbox">
+        <div class="switch"></div>
+   </div>
+</label>
+*/
+
+input[type="checkbox"] {
+    display: none;
+}
+
+input[type="checkbox"]+.switch {
+    width: 50px;
+    position: relative;
+    height: 24px;
+}
+
+input[type="checkbox"]+.switch:before {
+    content: "";
+    position: absolute;
+    display: block;
+    left: 3px;
+    top: 3px;
+    width: 50px;
+    height: 24px;
+    border-radius: 16px;
+    background: #E62929;
+    transition: all 0.3s;
+}
+
+input[type="checkbox"]+.switch:after {
+    content: "";
+    position: absolute;
+    display: block;
+    left: 0;
+    top: 0;
+    width: 30px;
+    height: 30px;
+    border-radius: 16px;
+    background: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s;
+}
+
+input[type="checkbox"]+.switch:hover:after {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+input[type="checkbox"]:checked+.switch:after {
+    margin-left: 27px;
+}
+
+input[type="checkbox"]:checked+.switch:before {
+    background: #55D069;
+}
+
+
+/***************************************************************************
+##### EXEMPLE LABEL #####
+Mise en forme de label pour les inputs
+
+<form>
+    <input class="checkbox_input" type="checkbox" name="choix1" id="ac1" checked>
+    <label class="input_label" for="ac1">Activation capteur</label>
+    <input class="checkbox_input" type="checkbox" name="choix2" id="ac2" checked>
+    <label class="input_label" for="ac2">Désactivation capteur</label>
+</form>
+
+<form>
+    <input class="radio_input" type="radio" name="time" id="an1">
+    <label class="input_label" for="an1">Jour</label>
+    <input class="radio_input" type="radio" name="time" id="an2">
+    <label class="input_label" for="an2">Semaine</label>
+</form>
+*/
+
+input[type="checkbox"].checkbox_input,
+input[type="radio"].radio_input {
+    display: none;
+}
+
+input[type="checkbox"].checkbox_input:checked+label,
+input[type="radio"].radio_input:checked+label {
+    background: #4C84FF;
+    color: white;
+    border-color: #4C84FF;
+}
+
+.input_label {
+    display: inline-block;
+    margin: 5px 5px 5px 0px;
+    border: 1px solid grey;
+    padding: 3px 10px;
+    border-radius: 8px;
+}
+
+/***************************************************************************
+##### EXEMPLE MENU VALIDER/ANNULER #####
+Mise en forme des boutons de validation et d'annulation
+(sur les pages de création de profil, camera, capteur..)
+
+<div class="right">
+    <p>Valider</P>
+    <button type="submit" form="EditProfil" class="validation">
+        <i class='uil uil-check'></i>
+    </button>
+
+    <p>Annuler</P>
+    <a href="<?= base_url("/profil/") ?>" class="annulation">
+        <i class='uil uil-times'></i>
+    </a>
+</div>
+*/
+
+.validation {
+    color: white;
+    background-color: #4C84FF !important;
+    border-radius: 15px;
+    width: 28px;
+    height: 28px;
+}
+
+.annulation {
+    color: white;
+    background-color: #E62929 !important;
+    border-radius: 15px;
+    width: 28px;
+    height: 28px;
+}
+
+.validation [class^=uil-]:before,
+.validation [class*=" uil-"]:before,
+.annulation [class^=uil-]:before,
+.annulation [class*=" uil-"]:before {
+    margin-left: .1em;
+}
